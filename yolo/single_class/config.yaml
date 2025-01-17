@@ -1,0 +1,6 @@
+path: C:\absolute\path\to\directory\containing\images
+train: train
+val: valid
+
+nc: 1
+names: ['worm']
