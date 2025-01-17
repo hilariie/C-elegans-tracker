@@ -1,10 +1,11 @@
 <div id="header" align="center">
   <h1>
     C-elegans Tracking System
-    <video controls autoplay src='videos\c-elegans-overview.mp4'></video>
   </h1>
 </div>
 
+[![](https://raw.githubusercontent.com/hilariie/C-elegans-tracker/main/videos/thumbnail.png)](https://raw.githubusercontent.com/hilariie/C-elegans-tracker/main/videos/c-elegans-overview.mp4)
+---
 This project aims to detect and track a male C-elegans worm's mating behaviour amongst female worms. It uses Yolov8 by 
 Ultralytics to detect the worms, the Segment Anything Model (SAM) to segment the detected worms from background, the DeepSORT algorithm to track the worms, Euclidean pixel distance to differentiate worms (similar in appearance) by mobility, custom algorithms to detect when contact between male and female worms, and records the contact time as well as the male worm's trajectory for scientific research.
 
