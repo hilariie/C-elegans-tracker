@@ -1,2 +1,8 @@
 sam_models/model_b.pth filter=lfs diff=lfs merge=lfs -text
 videos/mating7.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating1.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating2.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating3.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating4.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating5.wmv filter=lfs diff=lfs merge=lfs -text
+videos/mating6.wmv filter=lfs diff=lfs merge=lfs -text
