@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
-    C-elegans Tracking System.
-    <img src="results\worm_tracker.jpg" alt="worm tracker screenshot" width="300" align="center"/>
+    C-elegans Tracking System
+    <video controls autoplay src='videos\c-elegans-overview.mp4'></video>
   </h1>
 </div>
 
